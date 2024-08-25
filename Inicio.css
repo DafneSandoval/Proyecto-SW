@@ -1,0 +1,14 @@
+ul {
+    font-family: 'Roboto'; font-size: 18px;
+}
+.custum-list li::marker { color: #803D3B;}
+
+.imagen-derecha { float: right; margin-left: 60px; border: 2px double, #322C2B; margin: 20px;} 
+
+.imagen-final { float: inline-end; margin-left: 60px; border: 2px double, #322C2B; margin: 20px }
+div { text-align: end;}
+
+img { border: #803D3B 2px solid;
+    margin-left: 2px; margin-right: 2px; margin-top: 1px; margin-bottom: 1px;}
+
+body {background-color: #E4C59E ;}

@@ -1,0 +1,9 @@
+.imagen-derecha { float: right; margin-left: 60px; border: 2px double, #322C2B; margin: 20px;} 
+.costum-background { background-color: #E4C59E;}
+h3 {font-family: 'Roboto Slab'; font-size: 27px; text-align: center; margin-bottom: 40px; margin-top: 20px;}
+
+iframe { float: right; margin-left: 80px;  margin: 15px;
+ height: 310px; }
+.card {
+    margin: 20px; padding: 20px;
+}

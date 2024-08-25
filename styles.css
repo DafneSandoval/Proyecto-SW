@@ -1,0 +1,18 @@
+:root {
+    --bg-color: #E4C59E ;
+    --text-color: #322C2B;
+    background-color: var(--bg-color);
+   color: var(--text-color);
+   width: 100vw;
+   height: 500vh;
+   margin: 0; }
+   h1 { background-color: #af8260c2;
+    font-family: 'Roboto Slab'; font-size: 45px;
+    text-align: center;}
+
+    h2 { font-family: 'Roboto Slab'; font-size: 30px;}
+
+  p {text-align: justify; 
+    font-family: 'Roboto'; font-size: 18px;}
+.costum-background { background-color: #E4C59E;}
+  
